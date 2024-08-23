@@ -2,7 +2,7 @@
 
 Meu nome é Evelyn 
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem Javascript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -12,5 +12,6 @@ Meu nome é Evelyn
 
 
 
-![]![image](https://github.com/user-attachments/assets/1ee3a573-38ad-4264-b804-6c81394ab335)
+![](https://tenor.com/oAVrtgOhiuL.gif)
+
 
